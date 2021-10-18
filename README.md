@@ -2,7 +2,7 @@
 
    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+Amigos;I+am+Saurav+Pati;Glad+to+see+you+here)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+Amigos;I+am+Saurav+Pati;Glad+to+see+you+here;Give+me+a+problem+and;..and+I'll+find+the+easiest+way.)]()
 <br>
   
 </h2> 
