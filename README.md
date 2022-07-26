@@ -11,7 +11,7 @@
 <a href="https://oyesaurav.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&color=blueviolet" alt="oyesaurav" /></a>
 </p>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" align="right"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" align="right"/>
 
 <h4 align="left">I believe in Thougts Become Things, and thrive on learning, developing & trying it out in my way. I look forward about growing & gaining new skills in my dev journey. Had been working with full stack js and ts, specifically back-end. Day by day growing interest in Tf and cloud.
 </h4>
@@ -34,9 +34,9 @@
  
 ---
 
-
+<details>
 <!-- Tools   -->
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I have worked with:</h2>
+<summary><h3 align="left">:hammer_and_wrench: Technologies and Tools I have worked with:</h3></summary>
 <p align="left">
 <!-- Languages -->
 <!-- C -->
@@ -93,7 +93,7 @@
 <!-- docker -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a>&nbsp
     </p>
-
+</details>
 
 
 <!-- Details Section-->
