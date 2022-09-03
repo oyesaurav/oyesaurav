@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning **NestJs, Tensorflow, cloud**
 - 💬 Ask me about **Community, Open source, Hackathons, New technologies, Space, Books**
 
-<h3 align="left">More ways to connect:</h3>
+<h3 align="left">More ways to know:</h3>
   <p align="left">
 <!--   <a href="https://twitter.com/oyesaurav" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="20" height="20"/> </a>&nbsp
    <a href="https://www.linkedin.com/in/oyesaurav/" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" height="25" width="25" alt="linkedin"/></a>&nbsp
