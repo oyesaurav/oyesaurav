@@ -13,12 +13,12 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" align="right"/>
 
-<h4 align="left">I believe in Thougts Become Things, and thrive on learning, developing & trying it out in my way. I look forward about growing & gaining new skills in my dev journey. Had been working with full stack js and ts, specifically back-end. Day by day growing interest in Tf and cloud.
+<h4 align="left">I believe in Thougts Become Things, and thrive on learning, developing & trying it out in my way. I look forward about growing & gaining new skills in my dev journey with an incredible team. Have been working with js, ts, py, cpp, with recent works on go and java. Full-stack with interest in backend, MLOps, Deep learning and research. With growing interest in scalable systems, Language and CV research, and essentials of cyber-security...
 </h4>
 <br>
 
-- 🌱 I’m currently learning **NestJs, Tensorflow, cloud**
-- 💬 Ask me about **Community, Open source, Hackathons, New technologies, Space, Books**
+- 🌱 I’m currently working and learning more on **LLMs, system designs, cyber-security and somethings...**
+- 💬 Ask me about **Community, Open source, Hackathons, New technologies, Space, Books and those stuffs**
 
 <h3 align="left">More ways to know:</h3>
   <p align="left">
